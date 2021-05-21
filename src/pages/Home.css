@@ -1,0 +1,13 @@
+.container h1 {
+color: black;
+font-weight: bolder;
+align-content: center;
+text-align: left;
+padding-left: 20px;
+margin: 30px black;
+}
+
+.container-2{
+align-content: center;
+text-align: center;
+}
