@@ -1,0 +1,19 @@
+
+div.topnav {
+    text-align: right;
+    text-decoration: none;
+    font-weight: bolder
+}
+
+a {
+    text-decoration: none;
+    color: lightskyblue;
+    margin-right: 15px;
+    
+}
+a:hover{
+   font-size: 30px; 
+   color: lightpink;
+   text-decoration: none;
+   
+}

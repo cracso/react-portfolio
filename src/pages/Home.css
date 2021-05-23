@@ -1,13 +1,17 @@
 .container h1 {
-color: black;
-font-weight: bolder;
+color: rgb(53, 1, 53);
+font-size: 50px;
 align-content: center;
-text-align: left;
-padding-left: 20px;
-margin: 30px black;
+text-align: center;
+
 }
 
 .container-2{
 align-content: center;
 text-align: center;
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
